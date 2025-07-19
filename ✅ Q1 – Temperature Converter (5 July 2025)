@@ -6,6 +6,6 @@ Prints the result for the user, showing both the Celsius and Fahrenheit values.
 
 
 
-MY ANSWER : let celsius = 30
+My Answer : let celsius = 30
 let fahrenheit = (celsius * 9/5) + 32
 print("\(celsius)°C is \(fahrenheit)°F")
