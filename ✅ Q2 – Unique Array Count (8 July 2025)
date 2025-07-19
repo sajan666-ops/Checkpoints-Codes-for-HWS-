@@ -4,6 +4,6 @@ I’ll provide some hints below, but please take the time to think about a solut
 
 
 
-MY ANSWER: let arr = ["Sajan", "Mahla", "Harsimranjeet", "Sam", "Sajan"]
+My Answer: let arr = ["Sajan", "Mahla", "Harsimranjeet", "Sam", "Sajan"]
 let unique = Set(arr)
 print("Total: \(arr.count), Unique: \(unique.count)")
